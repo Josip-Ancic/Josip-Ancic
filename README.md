@@ -1,6 +1,6 @@
 # Hi, I'm Josip Ančić 👋
 
-**Information systems graduate (univ. bacc. inf.)** from the Faculty of Organization and Informatics (FOI), University of Zagreb, now in the **Databases and Knowledge Bases** master's programme.
+**Information systems graduate (univ. bacc. inf.)** from the Faculty of Organization and Informatics (FOI), University of Zagreb, now in the **Databases and Knowledge Bases** master's programme.  
 I work with **data**: building relational databases, cleaning messy datasets, and training machine learning models that answer a concrete business question.
 
 - 🎓 Bachelor's in Information and Business Systems, *Artificial Intelligence in Business* module
@@ -9,9 +9,9 @@ I work with **data**: building relational databases, cleaning messy datasets, an
 
 ## Tech
 
-**Languages & data:** Python · SQL (PostgreSQL, SQLite) · PL/pgSQL · pandas · NumPy
-**Machine learning:** scikit-learn · regression & classification · clustering · NLP (TF-IDF) · generative models (VAE)
-**Tools:** Jupyter / Colab · DataGrip · VS Code · Git · LaTeX · Excel (advanced)
+**Languages & data:** Python · SQL (PostgreSQL, SQLite) · PL/pgSQL · pandas · NumPy  
+**Machine learning:** scikit-learn · regression & classification · clustering · NLP (TF-IDF) · generative models (VAE)  
+**Tools:** Jupyter / Colab · DataGrip · VS Code · Git · LaTeX · Excel (advanced)  
 **Methods:** CRISP-DM · ERA modelling · AHP · web scraping
 
 ## Featured projects
@@ -32,7 +32,7 @@ I work with **data**: building relational databases, cleaning messy datasets, an
 
 ### Bok, ja sam Josip Ančić
 
-Sveučilišni prvostupnik informatike (univ. bacc. inf.) s Fakulteta organizacije i informatike u Varaždinu, sada na diplomskom studiju **Baze podataka i baze znanja**.
+Sveučilišni prvostupnik informatike (univ. bacc. inf.) s Fakulteta organizacije i informatike u Varaždinu, sada na diplomskom studiju **Baze podataka i baze znanja**.  
 Bavim se **podacima**: izradom relacijskih baza, čišćenjem i analizom podataka te modelima strojnog učenja koji odgovaraju na konkretno poslovno pitanje.
 
 - 🎓 Preddiplomski studij Informacijski i poslovni sustavi, modul *Umjetna inteligencija u poslovanju*
